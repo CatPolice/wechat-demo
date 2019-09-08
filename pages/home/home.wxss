@@ -1,0 +1,26 @@
+/* pages/home/home.wxss */
+.chunk{
+  width: 100px;
+  height: 100px
+}
+
+.container{
+  display: flex;
+  flex-direction: row; 
+  justify-content: center;  /*描述的是主轴*/
+  align-items:flex-start;/*描述的为交叉轴*/
+  flex-wrap:nowrap; /*是否换行显示*/
+  background-color: lavender;
+  height: 400px
+  
+}
+
+.coler1{
+  background-color: yellow
+}
+.coler2{
+  background-color: blue
+}
+.coler3{
+  background-color: brown
+}

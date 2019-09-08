@@ -1,0 +1,14 @@
+<!--pages/home/home.wxml-->
+<view class="container">
+
+  <view class="coler1 chunk">
+    1
+  </view>
+  <view class="coler2 chunk">
+    2
+  </view>
+  <view class="coler3 chunk">
+    3
+  </view>
+
+</view>
