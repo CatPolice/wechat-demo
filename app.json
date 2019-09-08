@@ -1,7 +1,9 @@
 {
   "pages": [
+    "pages/classic/classic",
     "pages/home/home",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "components/like/index"
   ],
   "window": {
     "backgroundTextStyle": "light",

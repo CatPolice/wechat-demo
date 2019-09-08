@@ -1,0 +1,20 @@
+.container{
+  display: flex;
+  flex-direction: row;
+  padding: 10rpx
+}
+
+.container image{
+  width: 32rpx;
+  height: 28rpx
+}
+
+/*line-height 属性设置行间的距离（行高）设置成和字体大小一样来消除字体间空隙*/
+
+.container text{
+  font-size: 24rpx;
+  line-height: 24rpx;
+  position: relative;
+  left: 6rpx;
+  bottom: 10rpx
+}
